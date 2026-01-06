@@ -1,0 +1,35 @@
+{
+  "name": "zr1-ytdl",
+  "version": "1.0.0",
+  "description": "Simple and fast YouTube downloader made by Corvette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "Corvette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "ttps://github.com/scriptgray/.git"
+  },
+  "bugs": {
+    "url": "ttps://github.com/scriptgray/zr1-ytdl/issues"
+  },
+  "homepage": "ttps://github.com/scriptgray/zr1-ytdl#readme",
+  "keywords": [
+    "ytdl",
+    "youtube",
+    "youtube-downloader",
+    "video",
+    "mp3",
+    "mp4",
+    "danuz"
+  ],
+  "dependencies": {
+    "axios": "^1.7.7",
+    "yt-search": "^2.12.1",
+    "cheerio": "latest",
+    "form-data": "^4.0.0",
+    "mime-types": "^2.1.35"
+  }
+}
